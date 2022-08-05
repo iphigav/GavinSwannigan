@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps/ Cloud Engineering 
 - 🌱 I’m currently learning Network foundations and Server Foundations
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...iphigav@gmail.com
+- 📫 How to reach me ...Gavines80@gmail.com
 
 <!---
 iphigav/iphigav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
